@@ -7,4 +7,4 @@ An university student, love code, love technology, love game
 - 🔭 Focusing on opening source
 - 🌱 Studying everything what I like
 - 📫 Share my study road
-- ⚡ Read more about my [Blog](https://lsilencej.top/)
+- ⚡ Read more about my [Blog](https://blog.lsilencej.top/)
